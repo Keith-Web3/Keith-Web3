@@ -5,7 +5,7 @@ Frontend Developer
 ------------------
 
 Hi, I'm Ola. A frontend developer.
-My current tech stack consists of HTML, SCSS, JS, REACT, FIREBASE, Git. I'm currently learning react and I hope to build amazing projects with it soon.
+My current tech stack consists of HTML, SCSS, JS, React, Firebase, Git. I'm currently learning react and I hope to build amazing projects with it soon.
 
 * 🌍  I'm based in Nigeria
 * ✉️  You can contact me at [olorunnisholaolamilekan@gmail.com](mailto:olorunnisholaolamilekan@gmail.com)
