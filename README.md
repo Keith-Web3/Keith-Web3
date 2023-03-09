@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Frontend Developer
 ------------------
 
-I've been learning to code for a year.
+Hi again, I'm Olorunnishola Olamilekan, a passionate frontend developer from Nigeria with a drive to learn and grow. With one and a half years of experience in creating amazing user experiences, I'm always seeking new challenges and opportunities to further my skills. I'm also an undergraduate student of Unilag studying chemical engineering and when I'm not busy crafting beautiful interfaces, I love nothing more than immersing myself in fascinating wildlife documentaries 😻 and the hilariously irreverent humor of Family Guy 😏. I'm excited to see where my journey takes me next! 😃
 
 * 🌍  I'm based in Nigeria
 * ✉️  You can contact me at [olorunnisholaolamilekan@gmail.com](mailto:olorunnisholaolamilekan@gmail.com)
