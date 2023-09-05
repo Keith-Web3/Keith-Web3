@@ -4,9 +4,11 @@ Hi 👋 My name is Olorunnishola Olamilekan
 Frontend developer
 ------------------
 
-Hi again! I'm Olorunnishola Olamilekan, a frontend developer hailing from Nigeria. My journey has been a quest for crafting seamless user interactions and captivating digital experiences. Having spent a couple of years mastering this art, my appetite for innovation and growth remains insatiable 😏. While coding is my daily bread, I'm not just a tech nomad. I'm currently sailing through the waves of chemical engineering studies at Unilag 🤓, adding a dash of curiosity to my academic pursuits. Amidst code and classes, I've uncovered a quirky side, a penchant for wildlife documentaries that whisk me away to far-off lands 🌆, and the cheeky antics of Family Guy that never fail to tickle my funny bone 😂. 
+Hello internet stranger 🙂, I'm Olorunnishola Olamilekan, a frontend developer hailing from Nigeria. Here's a little about me 👇.
 
-As I stand at the crossroads of past accomplishments and future adventures, my enthusiasm is unwavering. Here's to embracing the unknown and embarking on the exhilarating path ahead! 🥂🥂
+My coding journey has been a quest for crafting seamless user interactions and captivating digital experiences. Having spent a couple of years mastering this art, my appetite for innovation and growth remains insatiable 😏. While coding is my daily bread, I'm not just a tech nomad. I'm currently sailing through the waves of chemical engineering studies at Unilag 🤓, adding a dash of curiosity to my academic pursuits. Amidst code and classes, I've uncovered a quirky side, a penchant for wildlife documentaries that whisk me away to far-off lands 🌆, and the cheeky antics of Family Guy that never fail to tickle my funny bone 😂. 
+
+As I stand at the crossroads of past accomplishments and future adventures, my enthusiasm is unwavering. Here's to embracing the unknown and embarking on the exhilarating path ahead! 🥂🥂.
 
 *   🌍  I'm based in West Africa
 *   ✉️  You can contact me at [olorunnisholaolamilekan@gmail.com](mailto:olorunnisholaolamilekan@gmail.com)
