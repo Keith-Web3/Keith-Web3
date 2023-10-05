@@ -15,6 +15,9 @@ As I stand at the crossroads of past accomplishments and future adventures, my e
 *   🧠  I'm learning ReactJS
 *   🤝  I'm open to collaborating on Interesting projects.
 *   ⚡  I'm an arachnophile 😅
+
+
+[![An image of @keith_web3's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/keith_web3)](https://holopin.io/@keith_web3)
   
   ### Skills 
 <p align="left">
