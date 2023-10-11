@@ -12,7 +12,7 @@ As I stand at the crossroads of past accomplishments and future adventures, my e
 
 *   🌍  I'm based in West Africa
 *   ✉️  You can contact me at [olorunnisholaolamilekan@gmail.com](mailto:olorunnisholaolamilekan@gmail.com)
-*   🧠  I'm learning ReactJS
+*   🧠  I'm learning NextJS
 *   🤝  I'm open to collaborating on Interesting projects.
 *   ⚡  I'm an arachnophile 😅
 
