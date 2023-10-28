@@ -4,13 +4,18 @@ Hi👋 ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b
 Frontend developer
 ------------------
 
-Hello there, internet stranger. I'm Olorunnishola Olamilekan, a frontend developer from Nigeria. Let me share a bit about myself. 
 
-I've been on a journey to create user-friendly and engaging digital experiences. After a few years of honing my skills, I'm still hungry for new challenges. Coding is my daily routine, but I'm more than just a tech enthusiast. I'm also navigating the waters of chemical engineering studies at Unilag, adding some variety to my academic life. Between code and classes, I've discovered a quirky side of me. I enjoy watching wildlife documentaries that transport me to distant lands and the humor of Family Guy always gets a good laugh out of me 😂. As I stand at the crossroads of my past achievements and future adventures, I'm filled with enthusiasm. Here's to embracing the unknown and embarking on the exciting journey ahead! 🥂
+Hello there, internet stranger! Were you expecting to find web3 content here because of my username? 😂 Well, that was the initial plan, but not anymore.
+
+I'm a frontend developer from Nigeria with a knack for crafting user-friendly and engaging interfaces. Coding is my daily bread, but I'm more than just a tech enthusiast. I'm also pursuing a degree in chemical engineering at the University of Lagos. Between writing code and attending classes, I've discovered a quirky side of me.
+
+I find delight in watching wildlife documentaries and indulging in the humor of the ever-entertaining Family Guy which never fails to bring a hearty laugh out of me! 😅 As I stand at the crossroads of my past achievements and future adventures, I'm filled with enthusiasm. Here's to embracing the unknown and embarking on the exciting journey ahead! 🥂
+
+`Below, you'll discover my GitHub stats and a selection of my top projects, thoughtfully pinned for your exploration 😁`
 
 * 🌍  I'm based in Nigeria
 * ✉️  You can contact me at [olorunnisholaolamilekan@gmail.com](mailto:olorunnisholaolamilekan@gmail.com)
-* 🧠  I'm learning NextJS
+* 🧠  I'm currently working on an AI productivity app.
 * 🤝  I'm open to collaborating on Interesting projects
 * ⚡  I'm an arachnophile 😅
 
