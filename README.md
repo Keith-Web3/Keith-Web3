@@ -11,13 +11,13 @@ I'm a frontend developer from Nigeria with a knack for crafting user-friendly an
 
 I find delight in watching wildlife documentaries and indulging in the humor of the ever-entertaining Family Guy which never fails to bring a hearty laugh out of me! 😅 As I stand at the crossroads of my past achievements and future adventures, I'm filled with enthusiasm. Here's to embracing the unknown and embarking on the exciting journey ahead! 🥂
 
-`Below, you'll discover my GitHub stats and a selection of my top projects, thoughtfully pinned for your exploration 😁`
+`Below, you'll discover my GitHub stats, skills and a selection of my top projects, thoughtfully pinned for your exploration`
 
 * 🌍  I'm based in Nigeria
 * ✉️  You can contact me at [olorunnisholaolamilekan@gmail.com](mailto:olorunnisholaolamilekan@gmail.com)
 * 🧠  I'm currently working on an AI productivity app.
 * 🤝  I'm open to collaborating on Interesting projects
-* ⚡  I'm an arachnophile 😅
+* ⚡  I'm an arachnophile 🫣
 
 ### Skills
 
