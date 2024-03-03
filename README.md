@@ -5,11 +5,16 @@ Frontend developer
 ------------------
 
 
-Hello there, internet stranger! Were you expecting to find web3 content here because of my username? 😂 Well, that was the initial plan, but not anymore.
+Hello there, internet stranger! I'm Olamilekan, a frontend developer from Nigeria, with a knack for creating user-friendly and visually appealing interfaces. Coding isn't just a job for me; it's a daily passion and with 3 years of experience in the field, I bring to life every project I work on.
 
-I'm a frontend developer from Nigeria with a knack for crafting user-friendly and engaging interfaces. Coding is my daily bread, but I'm more than just a tech enthusiast. I'm also pursuing a degree in chemical engineering at the University of Lagos. Between writing code and attending classes, I've discovered a quirky side of me.
+Beyond the screen, I'm also on a quest for knowledge in the realm of chemical engineering at the University of Lagos. Balancing the intricacies of code with the complexities of chemical reactions keeps my days vibrant and full of diverse challenges.
 
-I find delight in watching wildlife documentaries and indulging in the humor of the ever-entertaining Family Guy which never fails to bring a hearty laugh out of me! 😅 As I stand at the crossroads of my past achievements and future adventures, I'm filled with enthusiasm. Here's to embracing the unknown and embarking on the exciting journey ahead! 🥂
+When I'm not immersed in the world of programming or academia, you'll find me immersed in the wonders of wildlife documentaries. And, of course, a bit of humor courtesy of the goated Family Guy show which always gets a good laugh out of me!
+
+As I stand at the intersection of my past achievements and future endeavors, here's to embracing the uncharted territories and embarking on the thrilling journey that lies ahead! 🍻 ![MerryChristmasGIF](https://github.com/Keith-Web3/Keith-Web3/assets/96974022/9146248f-fcf3-44d7-abb7-0f43fe0a0f7f)
+
+
+Explore below to delve into my GitHub stats, skills, and a curated selection of top projects awaiting your discovery. Let's connect and bring innovation to life!
 
 `Below, you'll discover my GitHub stats, skills and a selection of my top projects, thoughtfully pinned for your exploration`
 
