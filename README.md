@@ -12,6 +12,7 @@ Beyond the screen, I'm also on a quest for knowledge in the realm of chemical en
 When I'm not immersed in the world of programming or academia, you'll find me immersed in the wonders of wildlife documentaries. And, of course, a bit of humor courtesy of the goated Family Guy show which always gets a good laugh out of me!
 
 As I stand at the intersection of my past achievements and future endeavors, here's to embracing the uncharted territories and embarking on the thrilling journey that lies ahead! 🍻  
+
 ![MerryChristmasGIF](https://github.com/Keith-Web3/Keith-Web3/assets/96974022/9146248f-fcf3-44d7-abb7-0f43fe0a0f7f)  
 
 
