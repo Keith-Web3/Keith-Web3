@@ -5,11 +5,11 @@ Frontend developer
 ------------------
 
 
-Hello there, internet stranger! I'm Olamilekan, a frontend developer from Nigeria, with a knack for creating user-friendly and visually appealing interfaces. Coding isn't just a job for me; it's a daily passion and with 3 years of experience in the field, I bring to life every project I work on.
+Hello there, internet stranger! I'm Olamilekan, a frontend developer from Nigeria with a knack for creating user-friendly and visually appealing interfaces. Coding isn't just a job for me; it's a daily passion and with 3 years of experience in the field, I bring to life every project I work on.
 
-Beyond the screen, I'm also on a quest for knowledge in the realm of chemical engineering at the University of Lagos. Balancing the intricacies of code with the complexities of chemical reactions keeps my days vibrant and full of diverse challenges.
+Beyond the screen, I'm also a student engineer studying at the University of Lagos. Balancing the intricacies of code with the complexities of engineering keeps my days vibrant and full of diverse challenges.
 
-When I'm not immersed in the world of programming or academia, you'll find me immersed in the wonders of wildlife documentaries. And, of course, a bit of humor courtesy of the goated Family Guy show which always gets a good laugh out of me!
+When I'm not immersed in the world of programming or academia, you'll find me immersed in the wonders of wildlife documentaries and, of course, a bit of humor courtesy of the goated Family Guy show which always gets a good laugh out of me!
 
 As I stand at the intersection of my past achievements and future endeavors, here's to embracing the uncharted territories and embarking on the thrilling journey that lies ahead! 🍻  
 
