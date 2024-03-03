@@ -15,9 +15,6 @@ As I stand at the intersection of my past achievements and future endeavors, her
 
 ![MerryChristmasGIF](https://github.com/Keith-Web3/Keith-Web3/assets/96974022/9146248f-fcf3-44d7-abb7-0f43fe0a0f7f)  
 
-
-Explore below to delve into my GitHub stats, skills, and a curated selection of top projects awaiting your discovery. Let's connect and bring innovation to life!
-
 `Below, you'll discover my GitHub stats, skills and a selection of my top projects, thoughtfully pinned for your exploration`
 
 * 🌍  I'm based in Nigeria
