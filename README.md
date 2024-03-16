@@ -9,7 +9,7 @@ Hello there, internet stranger! I'm Olamilekan, a frontend developer from Nigeri
 
 Beyond the screen, I'm also a student engineer studying at the University of Lagos. Balancing the intricacies of code with the complexities of engineering keeps my days vibrant and full of diverse challenges.
 
-When I'm not immersed in the world of programming or academia, you'll find me immersed in the wonders of wildlife documentaries and, of course, a bit of humor courtesy of the goated Family Guy show which always gets a good laugh out of me!
+When I'm not immersed in the world of programming or academics, you'll find me immersed in the wonders of wildlife documentaries and a bit of humor courtesy of the goated Family Guy show which always gets a good laugh out of me 😅!
 
 As I stand at the intersection of my past achievements and future endeavors, here's to embracing the uncharted territories and embarking on the thrilling journey that lies ahead! 🍻  
 
