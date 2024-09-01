@@ -1,7 +1,7 @@
 👋 Hi, I'm Olorunnishola Olamilekan, a frontend developer with expertise in Next.js, TypeScript, TailwindCSS and React. I love crafting user-friendly and visually appealing web applications that not only look great but also perform seamlessly.
 
 ## About Me
-With a strong focus on frontend development, I enjoy bringing ideas to life through code. Currently, I'm diving deeper into the backend world, learning the inner workings of Node.js and expanding my full-stack knowledge. I'm driven by the goal of building innovative solutions that enhance user experiences.
+I have a strong focus on frontend development and enjoy bringing ideas to life through code. Currently, I'm diving deeper into the backend world, learning the inner workings of Node.js and expanding my full-stack knowledge. I'm driven by the goal of building creative solutions to day to day problems.
 
 ## Technical Skills 🛠️
 - **Languages:** JavaScript, TypeScript, NodeJS
