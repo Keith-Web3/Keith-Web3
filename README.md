@@ -40,6 +40,6 @@ Connect with Me 📬
 
 🐦 [Twitter](https://x.com/Keith_Web3) 
 
-📫 [Email](olorunnisholaolamilekan@gmail.com) 
+📫 [Email](mailto:olorunnisholaolamilekan@gmail.com) 
 
-🔗 [LinkedIn](https://www.linkedin.com/in/olamilekan-olorunnishola-9b1075302?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+🔗 [LinkedIn](https://www.linkedin.com/in/olorunnisholaolamilekan/)
