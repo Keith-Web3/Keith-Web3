@@ -7,7 +7,7 @@ I have a strong focus on frontend development and enjoy bringing ideas to life t
 - **Languages:** JavaScript, TypeScript, NodeJS
 - **Frameworks & Libraries:** React, Next.js, Express.js
 - **Styling:** SCSS, TailwindCSS, Shadcn
-- **Databases:** MongoDB, SQL
+- **Databases:** MongoDB, MySQL, PostgreSQL
   
 ## Key Projects 📚
 - **[Thrullo](https://github.com/Keith-Web3/Trullo):** A team collaboration tool built with React, TypeScript, SCSS, and Supabase, designed to improve productivity and simplify teamwork.
