@@ -4,10 +4,11 @@
 I have a strong focus on frontend development and enjoy bringing ideas to life through code. Currently, I'm diving deeper into the backend world, learning the inner workings of Node.js and expanding my full-stack knowledge. I'm driven by the goal of building creative solutions to day to day problems.
 
 ## Technical Skills 🛠️
-- **Languages:** JavaScript, TypeScript, NodeJS
+- **Languages:** JavaScript, TypeScript, NodeJS, GraphQL
 - **Frameworks & Libraries:** React, Next.js, Express.js
 - **Styling:** SCSS, TailwindCSS, Shadcn
 - **Databases:** MongoDB, MySQL, PostgreSQL
+- **OS:** Ubuntu
   
 ## Key Projects 📚
 - **[Thrullo](https://github.com/Keith-Web3/Trullo):** A team collaboration tool built with React, TypeScript, SCSS, and Supabase, designed to improve productivity and simplify teamwork.
